@@ -1,0 +1,8 @@
+conflicto 2
+conflicto 2
+conflicto 3
+conflicto 3
+conflicto 4
+conflicto 4
+conflicto 5
+conflicto 5
