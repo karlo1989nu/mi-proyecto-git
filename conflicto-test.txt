@@ -6,3 +6,8 @@ conflicto 4
 conflicto 4
 conflicto 5
 conflicto 5
+conflicto 6
+conflicto 6
+conflicto 7 
+conflicto 7
+
